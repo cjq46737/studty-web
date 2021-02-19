@@ -3,3 +3,7 @@
 .idea/workspace.xml
 .idea/workspace.xml
 .idea/workspace.xml
+*.class
+study-web.iml
+study-web.iml
+.idea/libraries/Maven__com_cjq_study_client_starter_1_0_SNAPSHOT.xml
