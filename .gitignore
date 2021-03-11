@@ -1,3 +1,4 @@
 .idea/*
 *.class
 study-web.iml
+target/classes/application.properties
